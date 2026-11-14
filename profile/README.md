@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nexora-Institute-of-Computing-NIC/.github/main/assets/logo-512.png" alt="Nexora Institute of Computing" width="480">
+  <img src="https://raw.githubusercontent.com/Nexora-Institute-of-Computing-NIC/.github/main/assets/logo-wordmark.png" alt="Nexora Institute of Computing" width="480">
 </p>
 
 <h1 align="center">Nexora Institute of Computing</h1>
