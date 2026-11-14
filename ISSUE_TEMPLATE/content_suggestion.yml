@@ -1,0 +1,22 @@
+name: Content suggestion
+description: Suggest a new lab, module, project, or elective
+title: "[Content]: "
+labels: ["enhancement", "content"]
+body:
+  - type: input
+    id: subject
+    attributes:
+      label: Which subject?
+      placeholder: e.g. sem-01-cs101-programming-fundamentals
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you like to add?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this valuable?
